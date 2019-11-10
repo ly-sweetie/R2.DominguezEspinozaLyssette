@@ -1,0 +1,7 @@
+C:\Users\lyss_\source\repos\R2.Gasolinera\R2.Gasolinera\bin\Debug\R2.Gasolinera.exe.config
+C:\Users\lyss_\source\repos\R2.Gasolinera\R2.Gasolinera\bin\Debug\R2.Gasolinera.exe
+C:\Users\lyss_\source\repos\R2.Gasolinera\R2.Gasolinera\bin\Debug\R2.Gasolinera.pdb
+C:\Users\lyss_\source\repos\R2.Gasolinera\R2.Gasolinera\obj\Debug\R2.Gasolinera.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\R2.Gasolinera\R2.Gasolinera\obj\Debug\R2.Gasolinera.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\R2.Gasolinera\R2.Gasolinera\obj\Debug\R2.Gasolinera.exe
+C:\Users\lyss_\source\repos\R2.Gasolinera\R2.Gasolinera\obj\Debug\R2.Gasolinera.pdb
